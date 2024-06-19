@@ -9,9 +9,13 @@ Récemment diplômé d'un BTS Développeur Web, je suis à la recherche d'une op
 les Compétences Clés :
 
 Développement Frontend : HTML5, CSS3, JavaScript (ES6+), React.js, Angular, Vue.js
+
 Développement Backend : Node.js, Django, Ruby on Rails, API RESTful, GraphQL
+
 Gestion des Bases de Données : MySQL, PostgreSQL, MongoDB
+
 Déploiement et CI/CD : Jenkins, Travis CI, GitHub Actions, AWS, Azure, Heroku
+
 Contrôle de Version et Collaboration : Git, GitHub, GitLab, Bitbucket, Agile (Scrum, Kanban)
 
 
