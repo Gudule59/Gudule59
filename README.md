@@ -6,13 +6,16 @@ Après plusieurs années dans un autre secteur, j'ai décidé de suivre ma véri
 
 Récemment diplômé d'un BTS Développeur Web, je suis à la recherche d'une opportunité en alternance pour poursuivre une Licence en Développement. Mon objectif est de continuer à apprendre et à évoluer dans ce domaine fascinant, tout en mettant en pratique mes compétences nouvellement acquises.
 
-Compétences Clés :
+les Compétences Clés :
 
 Développement Frontend : HTML5, CSS3, JavaScript (ES6+), React.js, Angular, Vue.js
 Développement Backend : Node.js, Django, Ruby on Rails, API RESTful, GraphQL
 Gestion des Bases de Données : MySQL, PostgreSQL, MongoDB
 Déploiement et CI/CD : Jenkins, Travis CI, GitHub Actions, AWS, Azure, Heroku
 Contrôle de Version et Collaboration : Git, GitHub, GitLab, Bitbucket, Agile (Scrum, Kanban)
+
+
+
 🔍 À la recherche d'un contrat pro en alternance pour une Licence en Développement. Je suis déterminé à m'investir pleinement dans cette nouvelle aventure et à apporter ma motivation et mes compétences à une équipe dynamique et innovante.
 
 💡 Mon objectif à long terme est de devenir expert en DevOps. Ce domaine me passionne particulièrement car il combine le développement et les opérations, permettant ainsi une meilleure collaboration et une livraison plus rapide et fiable des applications.
